@@ -1,4 +1,1 @@
-@echo off
-echo Hello Jenkins!
-echo This is my updated file.
-pause
+echo Jenkins build triggered by code change
