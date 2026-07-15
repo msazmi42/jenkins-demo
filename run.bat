@@ -1,1 +1,1 @@
-echo Jenkins build triggered by code change
+echo Triggered automatically by Jenkins---shahid
