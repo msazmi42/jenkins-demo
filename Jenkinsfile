@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                echo 'Code checked out from Git'
+                echo 'Code checked out from Git brightsun'
             }
         }
 
